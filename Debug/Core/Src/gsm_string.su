@@ -1,0 +1,4 @@
+gsm_string.c:77:6:init_apn_str	8	static
+gsm_string.c:87:6:init_GSM_str	8	static
+gsm_string.c:136:4:id_network_name	24	static
+gsm_string.c:153:6:network_failed_restart	8	static

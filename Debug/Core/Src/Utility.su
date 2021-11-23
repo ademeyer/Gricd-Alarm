@@ -1,0 +1,6 @@
+Utility.c:19:5:gsm_data_grabber	72	static
+Utility.c:53:6:putStringInArray	40	static
+Utility.c:93:5:makeIntArr	56	static
+Utility.c:125:6:setDateTime	40	static
+Utility.c:148:5:getTime_string	56	static
+Utility.c:157:6:synchronize_time	8	static

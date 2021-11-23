@@ -1,0 +1,11 @@
+gsm_process.c:23:6:sendPacket_Handler	288	static
+gsm_process.c:58:6:receivePacket_Handler	128	static
+gsm_process.c:86:6:send_GSM_str	32	static
+gsm_process.c:101:6:connectivity_watchdog	8	static
+gsm_process.c:124:5:rec_GSM_str	16	static
+gsm_process.c:143:6:GSM_str_is_valid	16	static
+gsm_process.c:154:6:GSM_Send_Handler	536	static
+gsm_process.c:279:6:GSM_Response_Handler	64	static
+gsm_process.c:532:6:setUp_GSM	8	static
+gsm_process.c:541:5:process_GSM_Frames	48	static
+gsm_process.c:571:6:GSM_Process	8	static

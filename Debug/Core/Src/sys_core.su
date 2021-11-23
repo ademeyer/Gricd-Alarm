@@ -1,0 +1,2 @@
+sys_core.c:12:5:__io_putchar	16	static
+sys_core.c:18:5:_write	32	static
